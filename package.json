@@ -1,0 +1,20 @@
+{
+  "name": "public-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegVysockiy/public-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/olegVysockiy/public-project/issues"
+  },
+  "homepage": "https://github.com/olegVysockiy/public-project#readme"
+}
